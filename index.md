@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am an Assistant Professor in the Education group at Durham University. Previously I was a Teaching Fellow here, and I completed my PhD at Durham in 2021.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I'm interested in how students develop mathematical writing skills; whether peer assessment can help (and whether it's a good thing anyway); how we talk about examples with students; and e-assessment (particularly STACK).
