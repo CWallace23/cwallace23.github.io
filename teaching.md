@@ -7,7 +7,7 @@ Currently I teach Mathematical Finance.
 
 If you’re thinking about taking Mathematical Finance, you might find it helpful to look through this document on “<a href="https://maths.dur.ac.uk/users/clare.wallace/MF/Prerequisites/">prerequisite knowledge</a>” for the course that I give out in the first weeks of term.
 
-This year I’m offering two final-year projects. You can find the project descriptions here.
+This year I’m offering two final-year projects. You can find the project descriptions <a href="https://cwallace23.github.io/teaching/final-year-projects">here</a>.
 
 My office hours this term are Fridays from 2 until 3pm. You can reach me by email at any time, or come to MCS3060 with questions.
 

@@ -5,7 +5,7 @@ title: "Final-year projects"
 
 These are the topics I’m offering to supervise for final-year BSc and MMath project students at Durham, in 2025-26. For older projects, see <a href="">the archive</a>.
 
-<h2>Third-year project: Assessment and feedback</h2>
+<h2>Third-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/assessment-and-feedback">Assessment and feedback</a></h2>
 
 In this project, we will think about the different ways in which mathematics can be assessed, and investigate whether any are more effective than others.
 
