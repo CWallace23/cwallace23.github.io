@@ -11,11 +11,18 @@ You really enjoyed the part of Probability II about modes of convergence of rand
 
 <h3>Overview:</h3>
 
-You’re probably familiar with the Law of Large Numbers, which says that the average of $$n$$ i.i.d random variables converges to the expectation.
-
-Not that sort of large numbers.
-
-You’re probably also familiar with the Central Limit Theorem, which says that the error we make in the “close to” part of the Law of Large Numbers is usually Normally distributed:
+<div class="row g-5 mb-5">
+    <div class="col-md-6">
+    <p> You’re probably familiar with the Law of Large Numbers, which says that the average of $$n$$ i.i.d random variables converges to the expectation.
+    You’re probably also familiar with the Central Limit Theorem, which says that the error we make in the “close to” part of the Law of Large Numbers is usually Normally distributed:
+    $$\frac{1}{\sqrt{n}} \sum_{j=1}^N X_j \sim \mathcal{N} ( \mu, \sigma^2/n).$$
+    </p>
+    </div>
+    <div class="col-md-6">
+    <img src="{{ site.github.url }}/assets/img/3h-2025.jpg" alt="A very generic picture of some maths in a notebook" width="30%">
+    Not that sort of large numbers.
+    </div>
+</div>
 
 In this project, we look at how these two ideas work for functions.
 

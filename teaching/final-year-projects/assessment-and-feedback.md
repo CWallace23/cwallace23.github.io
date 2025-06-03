@@ -39,8 +39,8 @@ We’ll spend a bit of time talking about critical reading and developing the sk
 
 Some interesting papers, to get you started:
 
-How we assess mathematics degrees: the summative assessment diet a decade on (Iannone and Simpson, 2022) at https://doi.org/10.1093/teamat/hrab007
+How we assess mathematics degrees: the summative assessment diet a decade on (Iannone and Simpson, 2022) at <a href="https://doi.org/10.1093/teamat/hrab007">https://doi.org/10.1093/teamat/hrab007</a>
 
-Approaches to feedback in the mathematical sciences: just what do students really think? (Grove and Good, 2019) at https://doi.org/10.1093/teamat/hrz013
+Approaches to feedback in the mathematical sciences: just what do students really think? (Grove and Good, 2019) at <a href="https://doi.org/10.1093/teamat/hrz013">https://doi.org/10.1093/teamat/hrz013</a>
 
-Can multiple choice questions be successfully used as an assessment format in undergraduate mathematics? (Huntley et al, 2009) at https://hdl.handle.net/10520/EJC20914
+Can multiple choice questions be successfully used as an assessment format in undergraduate mathematics? (Huntley et al, 2009) at <a href="https://hdl.handle.net/10520/EJC20914">https://hdl.handle.net/10520/EJC20914</a>
