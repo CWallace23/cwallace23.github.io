@@ -31,11 +31,12 @@ If we want to prove any of these claims, we’ll need some serious analysis: we 
 Plan:
 
 We’ll follow Patrick Billingsley’s book “Convergence of Probability Measures” through the first two chapters, looking at what it means for the distribution of one continuous function to converge to that of another. Hopefully we’ll then move on to answer (some of) the following questions:
-
-    What happens in higher dimensions?
-    What about discontinuous trajectories?
-    What can we say about random walks with different distributions?
-    How does this relate to the mysterious <a href="https://maths.dur.ac.uk/users/clare.wallace/MF/Chapter6.html">last line of the Michaelmas Math Finance lecture notes</a>?
+<ul>
+<li> What happens in higher dimensions?
+<li> What about discontinuous trajectories?
+<li> What can we say about random walks with different distributions?
+<li>How does this relate to the mysterious <a href="https://maths.dur.ac.uk/users/clare.wallace/MF/Chapter6.html">last line of the Michaelmas Math Finance lecture notes</a>?
+</ul>
 
 <h3>Prerequisites:</h3>
 
