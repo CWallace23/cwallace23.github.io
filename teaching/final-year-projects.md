@@ -8,10 +8,10 @@ These are the topics I’m offering to supervise for final-year BSc and MMath pr
 <h2>Third-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/assessment-and-feedback">Assessment and feedback</a></h2>
 
 <div class="row g-5 mb-5">
-    <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/3h-2025.jpg" alt="A very generic picture of some maths in a notebook" width="30%">
+    <div class="col-md-4">
+    <img src="{{ site.github.url }}/assets/img/3h-2025.jpg" alt="A very generic picture of some maths in a notebook" width="70%">
     </div>
-    <div class="col-md-6">
+    <div class="col-md-8">
     <p> In this project, we will think about the different ways in which mathematics can be assessed, and investigate whether any are more effective than others.
     </p>
     </div>
@@ -21,10 +21,10 @@ These are the topics I’m offering to supervise for final-year BSc and MMath pr
 <h2>Fourth-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/functional-limit-theorems">Functional Limit Theorems</a></h2>
 
 <div class="row g-5 mb-5">
-    <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/RW-to-BM.png" alt="Convergence of a random walk to Brownian motion" width="30%">
+    <div class="col-md-4">
+    <img src="{{ site.github.url }}/assets/img/RW-to-BM.png" alt="Convergence of a random walk to Brownian motion" width="70%">
     </div>
-    <div class="col-md-6">
+    <div class="col-md-8">
     <p> In this project, we’ll look at how the Law of Large Numbers, and the Central Limit Theorem, work when we apply them to trajectories of random walks (instead of simple random variables).
     </p>
     </div>
