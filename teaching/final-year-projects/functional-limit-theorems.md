@@ -3,13 +3,13 @@ layout: page
 title: "Functional limit theorems"
 ---
 
-<h2>Who this project is for:</h2>
+<h3>Who this project is for:</h3>
 
 Ideally you’ll be a fourth-year student (otherwise, you probably want to look at my <a href="http://cwallace23.github.io/teaching/final-year-projects/assessment-and-feedback">third-year project</a> instead).
 
 You really enjoyed the part of Probability II about modes of convergence of random variables, and you thought “I’d love to spend more time taking this even further.” You had similar feelings about the spaces of functions in Analysis III.
 
-<h2>Overview:</h2>
+<h3>Overview:</h3>
 
 You’re probably familiar with the Law of Large Numbers, which says that the average of n i.i.d random variables converges to the expectation.
 
@@ -21,7 +21,7 @@ In this project, we look at how these two ideas work for functions.
 
 Firstly, if we take n steps of a random walk in which each increment has mean μ, then (if n is large enough) the trajectory eventually will look like a straight line with slope μ:
 
-1/n X_n(t) \approx \mu t.
+\(1/n X_n(t) \approx \mu t.\)
 
 This is the Law of Large Numbers: the “average increase” over any section of the trajectory is close to the expectation.
 
@@ -37,11 +37,11 @@ We’ll follow Patrick Billingsley’s book “Convergence of Probability Measur
     What can we say about random walks with different distributions?
     How does this relate to the mysterious <a href="https://maths.dur.ac.uk/users/clare.wallace/MF/Chapter6.html">last line of the Michaelmas Math Finance lecture notes</a>?
 
-<h2>Prerequisites:</h2>
+<h3>Prerequisites:</h3>
 
 For this project, you’ll need to have taken Probability II and Analysis III. Stochastic Processes is also probably helpful.
 
-<h2>Resources:</h2>
+<h3>Resources:</h3>
 
 There are two main textbooks I plan to use.
 
