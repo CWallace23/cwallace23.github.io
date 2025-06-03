@@ -20,9 +20,9 @@ This project aims to introduce you to the existing educational research on asses
 
 This is a project where you have a lot of scope to choose your own adventure. Off the top of my head (and with no promises that any of these will definitely be an easy question to answer!) some interesting questions are:
 <ul>
-<li>   Are we better off using a variety of different types of assessment, or sticking to just one or two?
-<li>   What kinds of feedback are most likely to be helpful?
-<li>   What kinds of tasks do we tend to set in assessments? Are they the right ones?
+<li>   Are we better off using a variety of different types of assessment, or sticking to just one or two? </li>
+<li>   What kinds of feedback are most likely to be helpful? </li>
+<li>   What kinds of tasks do we tend to set in assessments? Are they the right ones? </li>
 </ul>
 
 You can give this project a statistical flavour, by focussing on quantitative studies and digging into how they come up with their results and whether they’re valid.

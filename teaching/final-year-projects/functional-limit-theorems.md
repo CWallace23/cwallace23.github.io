@@ -11,7 +11,7 @@ You really enjoyed the part of Probability II about modes of convergence of rand
 
 <h3>Overview:</h3>
 
-You’re probably familiar with the Law of Large Numbers, which says that the average of n i.i.d random variables converges to the expectation.
+You’re probably familiar with the Law of Large Numbers, which says that the average of $$n$$ i.i.d random variables converges to the expectation.
 
 Not that sort of large numbers.
 
@@ -19,23 +19,23 @@ You’re probably also familiar with the Central Limit Theorem, which says that 
 
 In this project, we look at how these two ideas work for functions.
 
-Firstly, if we take n steps of a random walk in which each increment has mean μ, then (if n is large enough) the trajectory eventually will look like a straight line with slope μ:
+Firstly, if we take $$n$$ steps of a random walk in which each increment has mean $$\mu$$, then (if $$n$$ is large enough) the trajectory eventually will look like a straight line with slope $$\mu$$:
 
-\(1/n X_n(t) \approx \mu t.\)
+$$1/n X_n(t) \approx \mu t.$$
 
 This is the Law of Large Numbers: the “average increase” over any section of the trajectory is close to the expectation.
 
-On the other hand, if we look at the error around that straight line, we get something that is “Normally distributed”. Once again the right scaling is \frac{1}{\sqrt{n}}, and the functional counterpart to the Normal distribution is Brownian motion.
+On the other hand, if we look at the error around that straight line, we get something that is “Normally distributed”. Once again the right scaling is $$\frac{1}{\sqrt{n}}$$, and the functional counterpart to the Normal distribution is Brownian motion.
 
 If we want to prove any of these claims, we’ll need some serious analysis: we need to define almost sure convergence and convergence in distribution such that they make sense for objects in infinite-dimensional spaces of functions. There’s a lot of measure theory and functional analysis going on in the background.
 Plan:
 
 We’ll follow Patrick Billingsley’s book “Convergence of Probability Measures” through the first two chapters, looking at what it means for the distribution of one continuous function to converge to that of another. Hopefully we’ll then move on to answer (some of) the following questions:
 <ul>
-<li> What happens in higher dimensions?
-<li> What about discontinuous trajectories?
-<li> What can we say about random walks with different distributions?
-<li>How does this relate to the mysterious <a href="https://maths.dur.ac.uk/users/clare.wallace/MF/Chapter6.html">last line of the Michaelmas Math Finance lecture notes</a>?
+<li> What happens in higher dimensions? </li>
+<li> What about discontinuous trajectories? </li>
+<li> What can we say about random walks with different distributions? </li>
+<li>How does this relate to the mysterious <a href="https://maths.dur.ac.uk/users/clare.wallace/MF/Chapter6.html">last line of the Michaelmas Math Finance lecture notes</a>? </li>
 </ul>
 
 <h3>Prerequisites:</h3>
