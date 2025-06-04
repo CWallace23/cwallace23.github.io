@@ -5,7 +5,7 @@ title: "Home"
 
 I am an Assistant Professor in the Education group at Durham University. Previously I was a Teaching Fellow here, and I completed my PhD at Durham in 2021.
 
-I'm [interested in](cwallace23.github.io/research):
+I'm [interested in](research):
 
 - how students develop mathematical writing skills;
 - whether peer assessment can help (and whether it's a good thing anyway);

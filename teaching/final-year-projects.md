@@ -3,13 +3,13 @@ layout: page
 title: "Final-year projects"
 ---
 
-These are the topics I’m offering to supervise for final-year BSc and MMath project students at Durham, in 2025-26. For older projects, see [the archive](/previous-projects).
+These are the topics I’m offering to supervise for final-year BSc and MMath project students at Durham, in 2025-26. For older projects, see [the archive](#/previous-projects).
 
-<h2>Third-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/assessment-and-feedback">Assessment and feedback</a></h2>
+<h2>Third-year project: [Assessment and feedback](#/assessment-and-feedback)</h2>
 
 <div class="row g-5 mb-5">
     <div class="col-md-3">
-    <img src="{{ site.github.url }}/assets/img/projects/25-6/3h-2025.jpg" alt="A very generic picture of some maths in a notebook" width="100%">
+    (!)[A very generic picture of some maths in a notebook](/assets/img/projects/25-6/3h-2025.jpg)
     </div>
     <div class="col-md-9">
     <p> In this project, we will think about the different ways in which mathematics can be assessed, and investigate whether any are more effective than others.
@@ -18,11 +18,11 @@ These are the topics I’m offering to supervise for final-year BSc and MMath pr
 </div>
 
 
-<h2>Fourth-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/functional-limit-theorems">Functional Limit Theorems</a></h2>
+<h2>Fourth-year project: [Functional Limit Theorems](#/functional-limit-theorems)</h2>
 
 <div class="row g-5 mb-5">
     <div class="col-md-3">
-    <img src="{{ site.github.url }}/assets/img/projects/25-6/RW-to-BM.png" alt="Convergence of a random walk to Brownian motion" width="100%">
+    (!)[Convergence of a random walk to Brownian motion](/assets/img/projects/25-6/RW-to-BM.png)
     </div>
     <div class="col-md-9">
     <p> In this project, we’ll look at how the Law of Large Numbers, and the Central Limit Theorem, work when we apply them to trajectories of random walks (instead of simple random variables).
