@@ -5,7 +5,7 @@ title: "Skittles"
 
 Over the last year or so, I’ve been very preoccupied with this claim on the back of all Skittles packets:
 
-<img src="{{ site.github.url }}/assets/img/skittles-claim.jpg" alt="No two rainbows are the same. Neither are any two packets of Skittles. Enjoy an odd mix." width="60%">
+<img src="{{ site.github.url }}/assets/img/skittles-claim.png" alt="No two rainbows are the same. Neither are any two packets of Skittles. Enjoy an odd mix." width="60%">
 
 Investigating whether it’s possible that this is true makes for a very nice, interactive, hour-long session for Sixth Formers (it’s particularly good for Open Days).
 
@@ -20,3 +20,4 @@ This whole ordeal starts with the unlikely-seeming claim that no two packets of 
 
 %picture
 
+It seemed that in such a small bag, there couldn't possibly be that many different variations. 
