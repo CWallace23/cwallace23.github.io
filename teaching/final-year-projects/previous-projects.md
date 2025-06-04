@@ -13,6 +13,6 @@ Fourth-year project: <a href="https://cwallace23.github.io/teaching/final-year-p
 
 <h3>2023-24</h3>
 
-Third-year project: “How do we learn maths?”
+Third-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/previous-projects/How-do-we-learn-maths">“How do we learn maths?”</a>
 
-Fourth-year project: “It’s a small world”
+Fourth-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/previous-projects/Kevin-Bacon">“It’s a small world”</a>
