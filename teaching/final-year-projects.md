@@ -3,9 +3,9 @@ layout: page
 title: "Final-year projects"
 ---
 
-These are the topics I’m offering to supervise for final-year BSc and MMath project students at Durham, in 2025-26. For older projects, see [the archive](#/previous-projects).
+These are the topics I’m offering to supervise for final-year BSc and MMath project students at Durham, in 2025-26. For older projects, see [the archive](/teaching/final-year-projects/previous-projects).
 
-<h2>Third-year project: [Assessment and feedback](#/assessment-and-feedback)</h2>
+## Third-year project: [Assessment and feedback](/teaching/final-year-projects/assessment-and-feedback)
 
 <div class="row g-5 mb-5">
     <div class="col-md-3">
@@ -18,7 +18,7 @@ These are the topics I’m offering to supervise for final-year BSc and MMath pr
 </div>
 
 
-<h2>Fourth-year project: [Functional Limit Theorems](#/functional-limit-theorems)</h2>
+## Fourth-year project: [Functional Limit Theorems](/teaching/final-year-projects/functional-limit-theorems)
 
 <div class="row g-5 mb-5">
     <div class="col-md-3">

@@ -5,14 +5,14 @@ title: "Previous projects"
 
 These are projects I’ve offered in the past.
 
-<h3>2024-25</h3>
+### 2024-25
 
-Third-year project: [“STACK It Up: Automated assessment in higher mathematics”](#/stack-it-up)
+Third-year project: [“STACK It Up: Automated assessment in higher mathematics”](/teaching/final-year-projects/previous-projects/stack-it-up)
 
-Fourth-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/previous-projects/Kevin-Bacon">“Six degrees of Kevin Bacon”</a>
+Fourth-year project: ["Six degrees of Kevin Bacon"](/teaching/final-year-projects/previous-projects/Kevin-Bacon)
 
-<h3>2023-24</h3>
+### 2023-24
 
-Third-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/previous-projects/how-do-we-learn-maths">“How do we learn maths?”</a>
+Third-year project: ["How do we learn maths"](/teaching/final-year-projects/previous-projects/how-do-we-learn-maths)
 
-Fourth-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/previous-projects/Kevin-Bacon">“It’s a small world”</a>
+Fourth-year project: ["It's a small world"](/teaching/final-year-projects/previous-projects/Kevin-Bacon)>

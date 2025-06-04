@@ -3,13 +3,13 @@ layout: page
 title: "Functional limit theorems"
 ---
 
-<h3>Who this project is for:</h3>
+### Who this project is for:
 
-Ideally you’ll be a fourth-year student (otherwise, you probably want to look at my <a href="http://cwallace23.github.io/teaching/final-year-projects/assessment-and-feedback">third-year project</a> instead).
+Ideally you’ll be a fourth-year student (otherwise, you probably want to look at my [third-year project](/teaching/final-year-projects/assessment-and-feedback) instead).
 
 You really enjoyed the part of Probability II about modes of convergence of random variables, and you thought “I’d love to spend more time taking this even further.” You had similar feelings about the spaces of functions in Analysis III.
 
-<h3>Overview:</h3>
+### Overview:
 
 <div class="row g-5 mb-5">
     <div class="col-md-8">
@@ -22,8 +22,7 @@ You really enjoyed the part of Probability II about modes of convergence of rand
     </p>
     </div>
     <div class="col-md-4">
-    <img src="{{ site.github.url }}/assets/img/projects/25-6/LargeNumbers.jpg" alt="Some big numbers at a wedding" width="100%">
-    <p>Not that sort of large numbers.</p>
+    (!)[Some big numbers at a wedding](/assets/img/projects/25-6/LargeNumbers.jpg "Not that sort of large numbers.") 
     </div>
 </div>
 
@@ -43,18 +42,18 @@ If we want to prove any of these claims, we’ll need some serious analysis: we 
 Plan:
 
 We’ll follow Patrick Billingsley’s book “Convergence of Probability Measures” through the first two chapters, looking at what it means for the distribution of one continuous function to converge to that of another. Hopefully we’ll then move on to answer (some of) the following questions:
-<ul>
-<li> What happens in higher dimensions? </li>
-<li> What about discontinuous trajectories? </li>
-<li> What can we say about random walks with different distributions? </li>
-<li>How does this relate to the mysterious <a href="https://maths.dur.ac.uk/users/clare.wallace/MF/Chapter6.html">last line of the Michaelmas Math Finance lecture notes</a>? </li>
-</ul>
 
-<h3>Prerequisites:</h3>
+- What happens in higher dimensions? 
+- What about discontinuous trajectories? 
+- What can we say about random walks with different distributions?
+- How does this relate to the mysterious [last line of the Michaelmas Math Finance lecture notes](https://maths.dur.ac.uk/users/clare.wallace/MF/Chapter6.html)? 
+
+
+### Prerequisites:
 
 For this project, you’ll need to have taken Probability II and Analysis III. Stochastic Processes is also probably helpful.
 
-<h3>Resources:</h3>
+### Resources:
 
 There are two main textbooks I plan to use.
 
