@@ -1,10 +1,10 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'Getting pedagogical research off the ground, Durham-Newcastle Pedagogy Day (Newcastle), 16 December 2024', url: ''}
+- {name: 'Students as STACKers: using STACK as a dissertation project, plenary talk, STACK Conference 2025, Durham University', url: 'https://sites.google.com/view/stack2025/home'}
+- {name: 'How to test testing, and did shuffling get lost in the shuffle?, Durham Learning and Teaching Conference 2024, 19 September (presented by Ric Crossman)', url:''}
 
 index:
-- {name: 'Getting pedagogical research off the ground, Durham-Newcastle Pedagogy Day (Newcastle), 16 December 2024', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'How to test testing, and did shuffling get lost in the shuffle?, Durham Learning and Teaching Conference 2024, 19 September 2024 (presented by Ric Crossman)', url:''}
+- {name: 'Getting pedagogical research off the ground, Durham-Newcastle Pedagogy Day (Newcastle), 16 December 2024', url: ''}
+- {name: 'Students as STACKers: using STACK as a dissertation project, plenary talk, STACK Conference 2025, Durham University', url: 'https://sites.google.com/view/stack2025/home'}
+- {name: 'Peer assessment in maths: Can it work?, TALMO online seminars, 18 June 2025', url: 'http://talmo.uk/events.html'}
