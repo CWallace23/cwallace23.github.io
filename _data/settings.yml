@@ -2,7 +2,7 @@ menu:
 - {name: 'teaching', url: '/teaching'}
 - {name: 'projects', url:'/research'}
 - {name: 'talks', url: '/talks'}
-- {name: 'activitives', url:'/activities'}
+- {name: 'activities', url:'/activities'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 

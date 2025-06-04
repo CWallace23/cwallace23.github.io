@@ -3,7 +3,7 @@ layout: page
 title: "Final-year projects"
 ---
 
-These are the topics I’m offering to supervise for final-year BSc and MMath project students at Durham, in 2025-26. For older projects, see <a href="https://cwallace23.github.io/teaching/final-year-projects/previous-projects">the archive</a>.
+These are the topics I’m offering to supervise for final-year BSc and MMath project students at Durham, in 2025-26. For older projects, see [the archive](/previous-projects).
 
 <h2>Third-year project: <a href="https://cwallace23.github.io/teaching/final-year-projects/assessment-and-feedback">Assessment and feedback</a></h2>
 
