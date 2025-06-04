@@ -1,7 +1,4 @@
 ---
-layout: page
+layout: research
 title: "Research"
 --- 
-
-Does this do anything?
-
