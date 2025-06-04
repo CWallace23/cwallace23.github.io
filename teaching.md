@@ -3,11 +3,15 @@ layout: page
 title: "Teaching"
 ---
 
+<h3>Lectures</h3>
+
 In 2024-5, I've been teaching Mathematical Finance.
 
 If you’re thinking about taking Mathematical Finance, you might find it helpful to look through this document on “<a href="https://maths.dur.ac.uk/users/clare.wallace/MF/Prerequisites/">prerequisite knowledge</a>” for the course that I give out in the first weeks of term.
 
 For 2025-6, I'll be teaching Probability 1 and Single Maths B.
+
+<h3>Office hours </h3>
 
 This year I’m offering two final-year projects. You can find the project descriptions <a href="https://cwallace23.github.io/teaching/final-year-projects">here</a>.
 

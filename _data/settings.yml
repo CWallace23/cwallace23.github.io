@@ -1,7 +1,8 @@
 menu:
 - {name: 'teaching', url: '/teaching'}
+- {name: 'projects', url:'/research'}
 - {name: 'talks', url: '/talks'}
-- {name: 'publications', url: '/publications'}
+- {name: 'activitives', url:'/activities'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
@@ -20,6 +21,3 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
-
-contacts:
-- {name: 'Dr. Clare Wallace', title: 'Assistant Professor', department: 'Mathematical Sciences', institution: 'Durham University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
