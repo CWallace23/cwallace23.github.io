@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<h3> Projects </h3>
 
 {{content}}
 
@@ -9,15 +10,19 @@ Some updates on the projects I've been working on recently:
 <div class="row g-5 mb-5">
   <div class="col-md-12">
     {% for post in site.posts %}
-      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
+      <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - latest update {{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
   </div>
 </div>
 
-## Talks
+I write (a lot of) STACK questions, including for our [Diagnostic Test](/teaching/diagnostic-test).
+
+I'm also on the team that organised the [STACK conference](/STACK/STACK-conference) in Durham in 2025.
+
+<h3>Talks</h3>
 
 A few talks I've given recently:
 
 {% include talks.html %}
 
-The full list is [here](/talks).
+The full list is <a href="{{ site.github.url }}/talks">here</a>.
