@@ -22,7 +22,7 @@ You really enjoyed the part of Probability II about modes of convergence of rand
     </p>
     </div>
     <div class="col-md-4">
-    ![Some big numbers at a wedding](/assets/img/projects/25-6/LargeNumbers.jpg "Not that sort of large numbers.") 
+    ![Some big numbers at a wedding](https://cwallace23.github.io/assets/img/projects/25-6/LargeNumbers.jpg "Not that sort of large numbers.") 
     </div>
 </div>
 

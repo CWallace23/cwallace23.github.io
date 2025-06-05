@@ -9,7 +9,7 @@ Recently I've been working on building up my network. In 2023, alongside some co
 
 In 2025, I helped to organise the the [2025 STACK conference](https://sites.google.com/view/stack2025/home) in Durham. I designed our fancy logo:
 
-![STACK 2025 logo](/assets/img/STACK-25.png)
+![STACK 2025 logo](https://cwallace23.github.io/assets/img/STACK-2025.png)
 
 and I also gave one of the plenary talks, based on the [final-year projects using STACK](/_posts/2025-06-05-students-writing-STACK.md) that I co-supervised with Sam Fearn.
 
