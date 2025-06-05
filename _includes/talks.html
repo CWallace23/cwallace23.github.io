@@ -1,7 +1,7 @@
 <div class="row g-5 mb-5">
   <div>
     {% if page.title == "Home" %}
-      <h3 class="fw-bold border-bottom pb-3 mb-5">Talks</h3>
+      <h3 class="fw-bold border-bottom pb-3 mb-5">Recent Talks</h3>
       {% for item in site.data.talks.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a>, at {{ item.location }}, {{ item.date }}</p>
       {% endfor %}

@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "Students writing STACK questions
+title: "Students writing STACK questions"
 ---

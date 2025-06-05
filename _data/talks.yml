@@ -1,11 +1,11 @@
 featured:
 - {name: 'Getting pedagogical research off the ground', location: 'Durham-Newcastle Pedagogy Day (Newcastle)', date: '16 December 2024', url: ''}
 - {name: 'Students as STACKers: using STACK as a dissertation project (plenary talk)', location: 'STACK Conference 2025, Durham University', date: '8 April 2025', url: 'https://sites.google.com/view/stack2025/home'}
-- {name: 'Peer assessment in maths: Can it work?', lcation: 'TALMO online seminars', date: '18 June 2025', url: 'http://talmo.uk/events.html'}
+- {name: 'Peer assessment in maths: Can it work?', location: 'TALMO online seminars', date: '18 June 2025', url: 'http://talmo.uk/events.html'}
 
 index:
 - {name: 'Student transition to university in maths', location: 'Scholarship of Teaching and Learning Forum, Durham', date: '28 November 2023',  url:''}
 - {name: 'How to test testing, and did shuffling get lost in the shuffle? (joint with, and presented by, Ric Crossman)', location: 'Durham Learning and Teaching Conference 2024', date: '19 September 2024', url:''}
 - {name: 'Getting pedagogical research off the ground', location: 'Durham-Newcastle Pedagogy Day (Newcastle)', date: '16 December 2024', url: ''}
 - {name: 'Students as STACKers: using STACK as a dissertation project (plenary talk)', location: 'STACK Conference 2025, Durham University', date: '8 April 2025', url: 'https://sites.google.com/view/stack2025/home'}
-- {name: 'Peer assessment in maths: Can it work?', lcation: 'TALMO online seminars', date: '18 June 2025', url: 'http://talmo.uk/events.html'}
+- {name: 'Peer assessment in maths: Can it work?', location: 'TALMO online seminars', date: '18 June 2025', url: 'http://talmo.uk/events.html'}
