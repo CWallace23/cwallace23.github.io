@@ -22,7 +22,8 @@ You really enjoyed the part of Probability II about modes of convergence of rand
     </p>
     </div>
     <div class="col-md-4">
-    ![Some big numbers at a wedding](https://cwallace23.github.io/assets/img/projects/25-6/LargeNumbers.jpg "Not that sort of large numbers.") 
+    <img src="{{ site.github.url }}/assets/img/projects/25-6/LargeNumbers.jpg alt = "Big numbers at a wedding" width=100%>
+    <p> Not that sort of large numbers.</p> 
     </div>
 </div>
 
