@@ -15,7 +15,8 @@ title: "Six degrees of Kevin Bacon"
     </p>
     </div>
     <div class="col-md-2">
-    ![Kevin Bacon](https://cwallace23.github.io/assets/img/projects/older/Kevin-Bacon.jpg "Kevin Bacon: very well-connected")
+    <img src="{{ site.github.url }}/assets/img/projects/older/Kevin-Bacon.jpg" alt = "Kevin Bacon" width=100%>
+    <p>Kevin Bacon: very well-connected</p>
     </div>
 </div>
 

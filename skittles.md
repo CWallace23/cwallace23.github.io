@@ -7,11 +7,11 @@ Over the last year or so, I’ve been very preoccupied with this claim on the ba
 
 <img src="{{ site.github.url }}/assets/img/skittles-claim.png" alt="No two rainbows are the same. Neither are any two packets of Skittles. Enjoy an odd mix." width="60%">
 
-Investigating whether it’s possible that this is true makes for a very nice, interactive, hour-long session for Sixth Formers (it’s particularly good for Open Days).
+This started as a five-minute talk at [Mathsjam](https://mathsjam.com/gathering/uk/), and has grown into a one-hour interactive talk that's perfect for Sixth Formers. I currently run it at our Departmental Open Days but I'm very happy to come and deliver it at a school.
 
 We use some combinatorics to work out how many different packets there are, some probability to think about the likelihood of finding a matching pair of packets, and then some statistics to test our hypotheses…
 
-Over the last two years, I’ve accumulated quite a lot of data about how many Skittles of each colour are in a packet, and you can use it too; it’s all here.
+I now have data about 425 packets of Skittles (and counting): you can download it here if you're interested.
 
 
 ## Spoilers: the maths
@@ -21,3 +21,7 @@ This whole ordeal starts with the unlikely-seeming claim that no two packets of 
 %picture
 
 It seemed that in such a small bag, there couldn't possibly be that many different variations. 
+
+After some "data gathering" 
+%picture
+I established that there are either 16 or 17 Skittles in each bag. 

@@ -9,7 +9,7 @@ Recently I've been working on building up my network. In 2023, alongside some co
 
 In 2025, I helped to organise the the [2025 STACK conference](https://sites.google.com/view/stack2025/home) in Durham. I designed our fancy logo:
 
-![STACK 2025 logo](https://cwallace23.github.io/assets/img/STACK-2025.png)
+<img src="{{ site.github.url }}/assets/img/STACK-2025.png" alt = "STACK logo 2025" width=30% class="center">
 
 and I also gave one of the plenary talks, based on the [final-year projects using STACK](/_posts/2025-06-05-students-writing-STACK.md) that I co-supervised with Sam Fearn.
 
@@ -24,5 +24,6 @@ I am a member of the Department’s Equality, Diversity, and Inclusion committee
 
 ### Outreach 
 
-- [Chalkdust](https://www.chalkdustmagazine.com)
-- [Skittles](/skittles)
+I do a lot of outreach/maths communcation stuff. I'm one of the editors of [Chalkdust magazine](https://www.chalkdustmagazine.com), where I write [quizzes](https://chalkdustmagazine.com/category/regulars/quiz/), give [advice to Dirichlet](https://chalkdustmagazine.com/category/regulars/dear-dirichlet/), and organise the sponsorship that keeps the magazine running. 
+
+I also do a lot of overthinking about [Skittles](/skittles).
