@@ -13,7 +13,7 @@ You really enjoyed the part of Probability II about modes of convergence of rand
 
 <div class="row g-5 mb-5">
     <div class="col-md-8">
-    <p> You’re probably familiar with the Law of Large Numbers, which says that the average of \(n\) i.i.d random variables converges to the expectation:
+    <p> You’re probably familiar with the Law of Large Numbers, which says that the average of $$n$$ i.i.d random variables converges to the expectation:
     
     $$ \frac{1}{n} \sum_{j=1}^n \xi_j \overset{as}{\to} \mathbb{E}[\xi_j]=\mu.$$
 
