@@ -6,16 +6,16 @@ title: "Six degrees of Kevin Bacon"
     <div class="col-md-10">
     <p>You might have heard of actors’ “Bacon number”. It’s a measure of how well-connected they are to Kevin Bacon: if they’ve been in a film with him, they have a Bacon number of 1; if they haven’t been in a film with him, but have been in a film with one of his co-stars, their Bacon number is 2; and so on.</p>
     <p>We can model actors’ connections using a *random graph*, where each actor is a vertex, connected to a random subset of the other actors in the system. Using this model, we can look into questions such as:
-    
-    - Is everyone connected to everyone else, or are there separate clusters?
-    - What does the shortest path between two randomly-chosen vertices look like?
-    - Is Kevin Bacon actually the best person to put at the centre?
-    - Does any of this actually matter in real life? (yes)
-
+    <ul>
+    <li> Is everyone connected to everyone else, or are there separate clusters?
+    <li> What does the shortest path between two randomly-chosen vertices look like?
+    <li> Is Kevin Bacon actually the best person to put at the centre?
+    <li> Does any of this actually matter in real life? (yes)
+    </ul>
     </p>
     </div>
     <div class="col-md-2">
-    <img src="{{ site.github.url }}/assets/img/projects/older/Kevin-Bacon.jpg" alt = "Kevin Bacon" width=100%>
+        <img src="{{ site.github.url }}/assets/img/projects/older/Kevin-Bacon.jpg" alt="Kevin Bacon" width="60%">
     <p>Kevin Bacon: very well-connected</p>
     </div>
 </div>

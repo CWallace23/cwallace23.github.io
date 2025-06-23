@@ -22,7 +22,7 @@ These are the topics I’m offering to supervise for final-year BSc and MMath pr
 
 <div class="row g-5 mb-5">
     <div class="col-md-3">
-        <img src="{{ site.github.url }}/assets/img/projects/25-6/RW-to-BM.png" alt = "Convergence of a random walk to Brownian motion" width=100%>
+        <img src="{{ site.github.url }}/assets/img/projects/25-6/RW-to-BM.png" alt="Convergence of a random walk to Brownian motion" width="100%">
     </div>
     <div class="col-md-9">
     <p> In this project, we’ll look at how the Law of Large Numbers, and the Central Limit Theorem, work when we apply them to trajectories of random walks (instead of simple random variables).

@@ -14,15 +14,13 @@ You really enjoyed the part of Probability II about modes of convergence of rand
 <div class="row g-5 mb-5">
     <div class="col-md-8">
     <p> You’re probably familiar with the Law of Large Numbers, which says that the average of $$n$$ i.i.d random variables converges to the expectation:
-    
     $$ \frac{1}{n} \sum_{j=1}^n \xi_j \overset{as}{\to} \mathbb{E}[\xi_j]=\mu.$$
-
     You’re probably also familiar with the Central Limit Theorem, which says that the error we make in the “close to” part of the Law of Large Numbers is usually Normally distributed:
     $$\frac{1}{\sqrt{n}} \sum_{j=1}^n \frac{\xi_j-\mu}{\sigma} \sim \mathcal{N} (0,1).$$
     </p>
     </div>
     <div class="col-md-4">
-    <img src="{{ site.github.url }}/assets/img/projects/25-6/LargeNumbers.jpg alt = "Big numbers at a wedding" width=100%>
+    <img src="{{ site.github.url }}/assets/img/projects/25-6/LargeNumbers.jpg" alt="Some light-up numbers at a wedding" width="60%">
     <p> Not that sort of large numbers.</p> 
     </div>
 </div>
