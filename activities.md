@@ -9,9 +9,9 @@ Recently I've been working on building up my network. In 2023, alongside some co
 
 In 2025, I helped to organise the the [2025 STACK conference](https://sites.google.com/view/stack2025/home) in Durham. I designed our fancy logo:
 
-<img src="{{ site.github.url }}/assets/img/STACK-2025.png" alt="STACK logo 2025" width="60%">
+<img src="{{ site.github.url }}/assets/img/STACK-2025.png" alt="STACK logo 2025" width="30%">
 
-and I also gave one of the plenary talks, based on the [final-year projects using STACK](/_posts/2025-06-05-students-writing-STACK.md) that I co-supervised with Sam Fearn.
+and I also gave one of the plenary talks, based on the [final-year projects using STACK](/_posts/2025-06-06-students-writing-STACK.md) that I co-supervised with Sam Fearn.
 
 There's a nice writeup about the event on the [University website](https://www.durham.ac.uk/departments/academic/mathematical-sciences/news/department-of-mathematical-sciences-hosted-international-stack-conference-2025/).
 

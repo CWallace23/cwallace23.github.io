@@ -13,6 +13,10 @@ We use some combinatorics to work out how many different packets there are, some
 
 I now have data about 425 packets of Skittles (and counting): you can download it here if you're interested.
 
+[November 2024 version](/assets/Skittles/skittles-megalist-1-11-24.xlsx)
+
+[June 2025 version](/assets/Skittles/skittles-megalist-3-6-25.xlsx)
+
 
 ## Spoilers: the maths
 

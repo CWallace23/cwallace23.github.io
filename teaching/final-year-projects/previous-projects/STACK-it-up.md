@@ -24,7 +24,7 @@ You’ll also be expected to have a good understanding of linear algebra.
 
 You might like to look into some of the following papers:
 
-- Approaches to feedback in the matiematical sciences: just what do students really think? (2020) – M Grove and C Good. [You can access this article here](https://doi.org/10.1093/teamat/hrz013).
+- Approaches to feedback in the mathematical sciences: just what do students really think? (2020) – M Grove and C Good. [You can access this article here](https://doi.org/10.1093/teamat/hrz013).
 - The guide to [getting started with STACK](https://docs.stack-assessment.org/content/2019-STACK-Guide.pdf) written by Tim Lowe, Chris Sangwin and Ian Jones.
 - At some point, you’ll definitely need the documentation for [STACK](http://docs.stack-assessment.org/en/) and [Maxima](https://maxima.sourceforge.io/docs/manual/index.html). The links are here for when you do.
 
