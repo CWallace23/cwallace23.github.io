@@ -25,7 +25,7 @@ The students reported that working on this project gave them a different perspec
 
 Presentation at the [2025 STACK conference](https://sites.google.com/view/stack2025/home), 8 April 2025.
 
-<!--> Presentation at the Durham Teaching and Learning Conference 2025. 
+<!-- Presentation at the Durham Teaching and Learning Conference 2025. 
 Contribution to STACK 2025 conference proceedings.
 Paper in TEAMAT.
-<-->
+-->
