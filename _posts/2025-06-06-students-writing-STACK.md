@@ -9,13 +9,9 @@ Third-year BSc students in Maths at Durham take a 40-credit extended research pr
 
 One such project is the introduction of automated assessment into the curriculum. We now use STACK e-assessments in almost all courses at Levels 1 and 2, and work to develop suitable materials for Level 3 is ongoing. 
 
- 
-
-*The project*
+ *The project*
 
 In 2024-5, Sam Fearn and I offered the project topic “[STACK it up](/teaching/final-year-projects/previous-projects/STACK-it-up),” in which five third-year students learned how to write STACK questions: both from a technical standpoint and from the point of view of the pedagogical literature focusing on assessment. The students were asked to write an assessment based on a topic related to one of their other modules, and reflect on its effectiveness with a grounding in scholarship.  
-
- 
 
 *Outcomes*
 
@@ -25,7 +21,8 @@ The students reported that working on this project gave them a different perspec
 
 Presentation at the [2025 STACK conference](https://sites.google.com/view/stack2025/home), 8 April 2025.
 
-<!-- Presentation at the Durham Teaching and Learning Conference 2025. 
+Presentation at the Durham Teaching and Learning Conference 2025 (upcoming).
+<!--
 Contribution to STACK 2025 conference proceedings.
 Paper in TEAMAT.
 -->
