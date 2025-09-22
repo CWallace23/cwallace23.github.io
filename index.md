@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I am an Assistant Professor in the Education group at Durham University. Previously I was a Teaching Fellow here, and I completed my PhD at Durham in 2021.
+I am an Assistant Professor in the Education group within the Department of Mathematical Sciences at Durham University. Previously I was a Teaching Fellow here, and I completed my PhD at Durham in 2021.
 
 I'm [interested in](research):
 
