@@ -5,7 +5,7 @@ title: "Skittles"
 
 Over the last year or so, I’ve been very preoccupied with this claim on the back of all Skittles packets:
 
-<img src="{{ site.github.url }}/assets/img/skittles-claim.png" alt="No two rainbows are the same. Neither are any two packets of Skittles. Enjoy an odd mix." width="60%">
+<img src="https://www.clarewallace.co.uk/assets/img/skittles-claim.png" alt="No two rainbows are the same. Neither are any two packets of Skittles. Enjoy an odd mix." width="60%">
 
 This started as a five-minute talk at [Mathsjam](https://mathsjam.com/gathering/uk/), and has grown into a one-hour interactive talk that's perfect for Sixth Formers. I currently run it at our Departmental Open Days but I'm very happy to come and deliver it at a school.
 

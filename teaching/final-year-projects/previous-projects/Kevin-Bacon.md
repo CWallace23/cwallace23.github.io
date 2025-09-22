@@ -15,7 +15,7 @@ title: "Six degrees of Kevin Bacon"
     </p>
     </div>
     <div class="col-md-2">
-        <img src="{{ site.github.url }}/assets/img/projects/older/Kevin-Bacon.jpg" alt="Kevin Bacon" width="60%">
+        <img src="https://www.clarewallace.co.uk/assets/img/projects/older/Kevin-Bacon.jpg" alt="Kevin Bacon" width="60%">
     <p>Kevin Bacon: very well-connected</p>
     </div>
 </div>

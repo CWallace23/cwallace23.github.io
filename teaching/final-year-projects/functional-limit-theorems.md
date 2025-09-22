@@ -20,7 +20,7 @@ You really enjoyed the part of Probability II about modes of convergence of rand
     </p>
     </div>
     <div class="col-md-4">
-    <img src="{{ site.github.url }}/assets/img/projects/25-6/LargeNumbers.jpg" alt="Some light-up numbers at a wedding" width="60%">
+    <img src="https://www.clarewallace.co.uk/assets/img/projects/25-6/LargeNumbers.jpg" alt="Some light-up numbers at a wedding" width="60%">
     <p> Not that sort of large numbers.</p> 
     </div>
 </div>
