@@ -21,4 +21,6 @@ Working together meant that we could complete each stage (ethics, data collectio
 
 Discussion of the process: Getting pedagogical research off the ground, Durham-Newcastle Pedagogy Day (Newcastle), 16 December 2024
 
-Talks planned at CETL-MSOR and Durham's Teaching and Learning Conference (both September 2025)
+Presentations about the process and the results at CETL-MSOR, September 2025;
+Durham's Teaching and Learning Conference, September 2025;
+and the Department's Research Day, September 2025.
