@@ -5,7 +5,7 @@
       {% for item in site.data.talks.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a>, at {{ item.location }}, {{ item.date }}</p>
       {% endfor %}
-    {% else if page.title == "Research" %}
+    {% elsif page.title == "Research" %}
       {% for item in site.data.talks.featured %}
         <p><a href="{{ item.url }}">{{ item.name }}</a>, at {{ item.location }}, {{ item.date }}</p>
       {% endfor %}
