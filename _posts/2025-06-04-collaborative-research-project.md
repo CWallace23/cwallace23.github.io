@@ -23,4 +23,5 @@ Discussion of the process: Getting pedagogical research off the ground, Durham-N
 
 Presentations about the process and the results at CETL-MSOR, September 2025;
 Durham's Teaching and Learning Conference, September 2025;
-and the Department's Research Day, September 2025.
+the Department's Research Day, September 2025;
+and Liverpool's Education seminar (upcoming).
