@@ -46,9 +46,9 @@ If you see them lined up in a row, you know exactly what kind of Skittles were i
 
 We could even go further and just write down the positions of the dividing lines: there are twenty "things" in my picture, and the fourth, ninth, twelfth, and seventeenth are dividers (all the rest are Skittles).
 
-So if we want to work out how many different packets of Skittles there are, we can just work out how many ways there are to position my four dividing lines among the twenty things in my picture. That's \(\choose{20}{4}\)! This tactic is often called [stars and bars](https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)), or sheep and fences.
+So if we want to work out how many different packets of Skittles there are, we can just work out how many ways there are to position my four dividing lines among the twenty things in my picture. That's $$\choose{20}{4}$$! This tactic is often called [stars and bars](https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)), or sheep and fences.
 
-Okay - so if there are either 16 or 17 Skittles in my packet, there are \(\choose{20}{4} + \choose{21}{4} = 10 830\) different possible packets we could find. 
+Okay - so if there are either 16 or 17 Skittles in my packet, there are $$\choose{20}{4} + \choose{21}{4} = 10 830$$ different possible packets we could find. 
 
 ### How long until we find two the same?
 
@@ -56,16 +56,16 @@ If I want to guarantee that I'll find two packets that are the same, I'd need to
 
 Let's start by assuming that **every packet is equally likely to come in any of the combinations**. That's quite a big ask, it turns out - but it will do for now.
 
-If I've opened \(n\) packets, what's the probability that they're all different?
+If I've opened $$n$$ packets, what's the probability that they're all different?
 
-When \(n=1\), the probability is 1 (we can't have two packets the same if we only open one). When \(n=2\), the probability that the second one is different from the first is \[\frac{10829}{10830},\] because there are 10 829 packets "left".
+When $$n=1$$, the probability is 1 (we can't have two packets the same if we only open one). When $$n=2$$, the probability that the second one is different from the first is $$\frac{10829}{10830},$$ because there are 10 829 packets "left".
 
-When \(n=3\), the probability that all three are different is \[\frac{10 829}{10 830} \times \frac{10 828}{10 830},\] because the third packet needs to be different from the first two.
+When $$n=3$$, the probability that all three are different is $$\frac{10 829}{10 830} \times \frac{10 828}{10 830},$$ because the third packet needs to be different from the first two.
 
-If we keep going, the probability that \(n\) packets are all different is
-\[\frac{10 829}{10 830} \times \frac{10 828}{10 830} \times \dots times \frac{10 831-n}{10 830} = \frac{10 830!}{(10 830-n)! 10 830^n}.\]
+If we keep going, the probability that $$n$$ packets are all different is
+$$\frac{10 829}{10 830} \times \frac{10 828}{10 830} \times \dots times \frac{10 831-n}{10 830} = \frac{10 830!}{(10 830-n)! 10 830^n}.$$
 
-This dips below 0.5 when \(n=123\). (This is where open days come in - there are usually around 120 students and parents in the audience, and they're all happy to eat a packet of Skittles for the sake of science.) If we can get to \(n=180\) (ten multipacks, or about £30 worth of Skittles), the probability comes down to around a quarter.
+This dips below 0.5 when $$n=123$$. (This is where open days come in - there are usually around 120 students and parents in the audience, and they're all happy to eat a packet of Skittles for the sake of science.) If we can get to $$n=180$$ (ten multipacks, or about £30 worth of Skittles), the probability comes down to around a quarter.
 
 ### Stati-Skittle analysis
 
@@ -75,20 +75,20 @@ It all comes down to our assumption: that every packet is equally likely to be a
 
 We'll start at the top: how many different ways can a packet have 17 of the same colour? Just five: they're all purple, all red, all orange, all yellow, or all green.
 
-How many different ways can a packet have 16 of the same colour? There are five possible 16-Skittle packets, and \(5\times4=20\) different 17-Skittle packets (five options for the "main" colour, and four options for the "bonus" Skittle in each case). 
+How many different ways can a packet have 16 of the same colour? There are five possible 16-Skittle packets, and $$5\times4=20$$ different 17-Skittle packets (five options for the "main" colour, and four options for the "bonus" Skittle in each case). 
 
-Using the same logic, there are \(5 \times 6 + 5 \times 4 + 5 \times 4 = 70\) different packets with 15 of the same colour (and either two more of different flavours, two more of the same flavour, or just one more).
+Using the same logic, there are $$5 \times 6 + 5 \times 4 + 5 \times 4 = 70$$ different packets with 15 of the same colour (and either two more of different flavours, two more of the same flavour, or just one more).
 
-So \(70 + 25 + 5 = 100\) of the 10 830 possible packets have at least fifteen of the same colour. So we should see them about 1% of the time! Let's set this up as a hypothesis test:
+So $$70 + 25 + 5 = 100$$ of the 10 830 possible packets have at least fifteen of the same colour. So we should see them about 1% of the time! Let's set this up as a hypothesis test:
 
-\(H_0\): Every packet is equally likely to come up, and in particular about 1% of packets contain 15 or more Skittles of the same colour.
+$$H_0$$: Every packet is equally likely to come up, and in particular about 1% of packets contain 15 or more Skittles of the same colour.
 
-\(H_1\): fewer than 1% of packets contain 15 or more Skittles of the same colour.
+$$H_1$$: fewer than 1% of packets contain 15 or more Skittles of the same colour.
 
-Under \(H_0\), when we open 300 packets of Skittles, the number of packets with at least 15 Skittles of the same colour has a Binomial distribution: \(N \sim \text{Bin}(300, 0.01)\).
+Under $$H_0$$, when we open 300 packets of Skittles, the number of packets with at least 15 Skittles of the same colour has a Binomial distribution: $$N \sim \text{Bin}(300, 0.01)$$.
 
-So the probability that we don’t see any packets with at least 15 is​ \(\mathbb{P}(N = 0) = 0.99^{300} \approx 0.049\). That is (just!) under the all-important \(p=0.05\), beyond which we can reject our original hypothesis.[^2]
+So the probability that we don’t see any packets with at least 15 is​ $$\mathbb{P}(N = 0) = 0.99^{300} \approx 0.049$$. That is (just!) under the all-important $$p=0.05$$, beyond which we can reject our original hypothesis.[^2]
 
 [^2]: In fact, now that we've opened 400+ packets, this probability drops to around 0.01795.
 
-So we should reject \(H_0\) at the 5% significance level (and, soon, at the 1% significance level as well). Of course all of the combinations aren't equally likely to appear - it makes much more sense to use a [multinomial distribution](https://en.wikipedia.org/wiki/Multinomial_distribution) to think about the number of each colour of Skittle in a packet. But that's a whole different talk.
+So we should reject $$H_0$$ at the 5% significance level (and, soon, at the 1% significance level as well). Of course all of the combinations aren't equally likely to appear - it makes much more sense to use a [multinomial distribution](https://en.wikipedia.org/wiki/Multinomial_distribution) to think about the number of each colour of Skittle in a packet. But that's a whole different talk.
