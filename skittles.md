@@ -11,11 +11,13 @@ This started as a five-minute talk at [Mathsjam](https://mathsjam.com/gathering/
 
 We use some combinatorics to work out how many different packets there are, some probability to think about the likelihood of finding a matching pair of packets, and then some statistics to test our hypotheses…
 
-I now have data about 425 packets of Skittles (and counting): you can download it here if you're interested.
+I now have data about 573 packets of Skittles (and counting): you can download it here if you're interested.
 
 [November 2024 version](/assets/Skittles/skittles-megalist-1-11-24.xlsx)
 
 [June 2025 version](/assets/Skittles/skittles-megalist-3-6-25.xlsx)
+
+**New!** [March 2026 version](/assets/Skittles/skittles-megalist-16-3-26.xlsx)
 
 
 ## Spoilers: the maths
