@@ -20,15 +20,16 @@ I now have data about 425 packets of Skittles (and counting): you can download i
 
 ## Spoilers: the maths
 
-This whole ordeal starts with the unlikely-seeming claim that no two packets of Skittles are the same. I'm willing to go along with the idea for the bigger (152g) bags, and maybe even for 45g bags (on which more later)[^1], but I first noticed it written on the "trick-or-treat" size bags, which are only 18g:
+This whole ordeal starts with the unlikely-seeming claim that no two packets of Skittles are the same. I'm willing to go along with the idea for the bigger (152g) bags, and maybe even for 45g bags (on which more later)[^1], but I first noticed it written on the "trick-or-treat" size bags, which are only 18g.
 
 [^1]: The Oxford maths Instagram account thought about this a little bit and concluded it's also really unlikely.
-%picture
+
 
 It seemed that in such a small bag, there couldn't possibly be that many different variations. 
 
 After some "data gathering" 
-%picture
+<img src="https://www.clarewallace.co.uk/assets/img/skittles-packets.png" alt="A pile of mini Skittle packets" width="60%">
+
 I established that there are either 16 or 17 Skittles in each bag. 
 
 As we can see in the image further up the page, there are five flavours of Skittle: lemon, lime, orange, red, and purple. To work out how many different ways a bag of 16 Skittles can be composed of these five flavours, we use some combinatorics. 
