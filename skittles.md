@@ -30,7 +30,7 @@ This whole ordeal starts with the unlikely-seeming claim that no two packets of 
 It seemed that in such a small bag, there couldn't possibly be that many different variations. 
 
 After some "data gathering" 
-<img src="https://www.clarewallace.co.uk/assets/img/skittles-packets.png" alt="A pile of mini Skittle packets" width="60%">
+<img src="https://www.clarewallace.co.uk/assets/Skittkes/skittles-packets.png" alt="A pile of mini Skittle packets" width="60%">
 
 I established that there are either 16 or 17 Skittles in each bag. 
 
