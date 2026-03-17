@@ -21,7 +21,11 @@ Working together meant that we could complete each stage (ethics, data collectio
 
 Discussion of the process: Getting pedagogical research off the ground, Durham-Newcastle Pedagogy Day (Newcastle), 16 December 2024
 
-Presentations about the process and the results at CETL-MSOR, September 2025;
-Durham's Teaching and Learning Conference, September 2025;
-the Department's Research Day, September 2025;
-and Liverpool's Education seminar (upcoming).
+Presentations about the process and the results (not all given by me - that's the point of the project!):
+- 'Developing pedagogical research methods at Durham University Mathematical Sciences' [CETL-MSOR 2025](https://pcwww.liv.ac.uk/~jebanks/home.html), 5 September 2025;
+- 'Getting pedagogical research off the ground' and 'How do Maths students use resources? Focus group findings' Durham's Teaching and Learning Conference, 15 September 2025;
+- 'How do our students use teaching resources?​' the Department's [Research Day](https://indico.global/event/15320/#10-daniele-turchetti-maciej-ma), 24 September 2025;
+- Liverpool's Education seminar;
+- 'Building capacity for pedagogical research in mathematics', [TALMO online seminars](https://talmo.uk/2026/buildcapacity.html), 13 March 2026.
+
+Paper: 'Developing pedagogical research methods at Durham University', CETL-MSOR, submitted.
