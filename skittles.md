@@ -30,8 +30,7 @@ This whole ordeal starts with the unlikely-seeming claim that no two packets of 
 It seemed that in such a small bag, there couldn't possibly be that many different variations. 
 
 After some "data gathering" 
-<img src="https://www.clarewallace.co.uk/assets/Skittkes/skittles-packets.png" alt="A pile of mini Skittle packets" width="60%">
-
+![A pile of mini Skittles packets](/assets/Skittles/skittles-packets.png)
 I established that there are either 16 or 17 Skittles in each bag. 
 
 As we can see in the image further up the page, there are five flavours of Skittle: lemon, lime, orange, red, and purple. To work out how many different ways a bag of 16 Skittles can be composed of these five flavours, we use some combinatorics. 
@@ -46,9 +45,9 @@ If you see them lined up in a row, you know exactly what kind of Skittles were i
 
 We could even go further and just write down the positions of the dividing lines: there are twenty "things" in my picture, and the fourth, ninth, twelfth, and seventeenth are dividers (all the rest are Skittles).
 
-So if we want to work out how many different packets of Skittles there are, we can just work out how many ways there are to position my four dividing lines among the twenty things in my picture. That's $$\choose{20}{4}$$! This tactic is often called [stars and bars](https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)), or sheep and fences.
+So if we want to work out how many different packets of Skittles there are, we can just work out how many ways there are to position my four dividing lines among the twenty things in my picture. That's $${20 \choose 4}$$! This tactic is often called [stars and bars](https://en.wikipedia.org/wiki/Stars_and_bars_(combinatorics)), or sheep and fences.
 
-Okay - so if there are either 16 or 17 Skittles in my packet, there are $$\choose{20}{4} + \choose{21}{4} = 10 830$$ different possible packets we could find. 
+Okay - so if there are either 16 or 17 Skittles in my packet, there are $${20 \choose 4} + {21 \choose 4}= 10 830$$ different possible packets we could find. 
 
 ### How long until we find two the same?
 
@@ -63,7 +62,7 @@ When $$n=1$$, the probability is 1 (we can't have two packets the same if we onl
 When $$n=3$$, the probability that all three are different is $$\frac{10 829}{10 830} \times \frac{10 828}{10 830},$$ because the third packet needs to be different from the first two.
 
 If we keep going, the probability that $$n$$ packets are all different is
-$$\frac{10 829}{10 830} \times \frac{10 828}{10 830} \times \dots times \frac{10 831-n}{10 830} = \frac{10 830!}{(10 830-n)! 10 830^n}.$$
+$$\frac{10 829}{10 830} \times \frac{10 828}{10 830} \times \dots \times \frac{10 831-n}{10 830} = \frac{10 830!}{(10 830-n)! 10 830^n}.$$
 
 This dips below 0.5 when $$n=123$$. (This is where open days come in - there are usually around 120 students and parents in the audience, and they're all happy to eat a packet of Skittles for the sake of science.) If we can get to $$n=180$$ (ten multipacks, or about £30 worth of Skittles), the probability comes down to around a quarter.
 
