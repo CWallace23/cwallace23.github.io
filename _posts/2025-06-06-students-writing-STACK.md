@@ -25,6 +25,6 @@ Presentation at the Durham Teaching and Learning Conference 2025.
 
 Contribution to STACK 2025 conference proceedings. (submitted)
 
-Contribution to the special issue of TEAMAT on computer-aided assessment (submitted)
+Contribution to the [special issue of TEAMAT on computer-aided assessment](https://doi.org/10.1093/teamat/hrag006)
 
-Contriubtion to the STACK newsletter, December 2025 (submitted)
+Contriubtion to the [STACK newsletter, December 2025 ](https://stack-connect.oth-aw.de/newsletter-sammlung/stack-newsletter-8-06-25-1-1/)
