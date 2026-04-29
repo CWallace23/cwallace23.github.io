@@ -18,14 +18,14 @@ These are the topics I’m offering to supervise for final-year BSc and MMath pr
 </div>
 
 
-## Fourth-year project: [Six degrees of Kevin Bacon](/teaching/final-year-projects/STACK-it-up)
+## Fourth-year project: [Automated assessment with STACK](/teaching/final-year-projects/automated-assessment)
 
 <div class="row g-5 mb-5">
     <div class="col-md-3">
-        <img src="https://www.clarewallace.co.uk/assets/img/projects/26-7/Bacon-graph.png" alt="Kevin Bacon" width="100%">
+        <img src="https://www.clarewallace.co.uk/assets/img/projects/26-7/stacklogo.png" alt="The STACK logo" width="100%">
     </div>
     <div class="col-md-9">
-    <p> In this project, we’ll look at models of random graphs describing social networks. There are two phenomena here, at tension with each other: firstly, our connections tend to be connected to each other (there are lots of triangles in the graph). On the other hand, we often know people that nobody else in our friend group does (there are lots of shortcuts between clusters). How do we model this? Which other applications are there?
+    <p> 
     </p>
     </div>
 </div>
