@@ -5,7 +5,7 @@ title: "Final-year projects"
 
 These are the topics I’m offering to supervise for final-year BSc and MMath project students at Durham, in 2026-27. For older projects, see [the archive](/teaching/final-year-projects/previous-projects).
 
-## Third-year project: [Assessment and feedback](/teaching/final-year-projects/assessment-and-feedback)
+## Third-year project: [Assessment and feedback](/teaching/final-year-projects/assessment-group-project)
 
 <div class="row g-5 mb-5">
     <div class="col-md-3">
@@ -18,7 +18,7 @@ These are the topics I’m offering to supervise for final-year BSc and MMath pr
 </div>
 
 
-## Fourth-year project: [Six degrees of Kevin Bacon](/teaching/final-year-projects/Kevin-Bacon)
+## Fourth-year project: [Six degrees of Kevin Bacon](/teaching/final-year-projects/STACK-it-up)
 
 <div class="row g-5 mb-5">
     <div class="col-md-3">
