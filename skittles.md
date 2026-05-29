@@ -30,7 +30,9 @@ This whole ordeal starts with the unlikely-seeming claim that no two packets of 
 It seemed that in such a small bag, there couldn't possibly be that many different variations. 
 
 After some "data gathering" 
+
 ![A pile of mini Skittles packets](/assets/Skittles/skittles-packets.png)
+
 I established that there are either 16 or 17 Skittles in each bag. 
 
 As we can see in the image further up the page, there are five flavours of Skittle: lemon, lime, orange, red, and purple. To work out how many different ways a bag of 16 Skittles can be composed of these five flavours, we use some combinatorics. 
