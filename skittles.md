@@ -3,7 +3,7 @@ layout: page
 title: "Skittles"
 ---
 
-Over the last year or so, I’ve been very preoccupied with this claim on the back of all Skittles packets:
+Over the last three years, I’ve been very preoccupied with this claim on the back of all Skittles packets:
 
 <img src="https://www.clarewallace.co.uk/assets/img/skittles-claim.png" alt="No two rainbows are the same. Neither are any two packets of Skittles. Enjoy an odd mix." width="60%">
 
