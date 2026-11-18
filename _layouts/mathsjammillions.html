@@ -1,10 +1,13 @@
----
-layout: page
----
-
-{{ content }}
-
-<body>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/mathsjam.css">
+    <script src="assets/js/mathsjamscript.js"></script>
+  </head>
+  <body>
+    {{ content }}
     <p>In this talk I will
         <generator-bit id="talkCat">Image Text</generator-bit>, </p>
     <p>    based on an idea I had when I was
@@ -34,5 +37,6 @@ layout: page
 
 
     <button id="refresh-button">New Talk</button>
-    <script src="assets/js/mathsjamscript.js"></script>
+    
 </body>
+</html>
