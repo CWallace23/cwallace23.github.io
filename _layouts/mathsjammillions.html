@@ -1,16 +1,20 @@
 <!doctype html>
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/mathsjam.css">
     <script src="assets/js/mathsjamscript.js"></script>
-  </head>
+</head>
   {% include head.html %}
-  <body>
+<body>
     <div class="col-lg-8 mx-auto p-3 py-md-5">
       {% include header.html %}
+    <div class="row g-5 mb-5">
+    <div class="col-md-12">
+    <h3 class="fw-bold border-bottom pb-3 mb-5">{{ page.title }}</h3>  
     {{ content }}
+
     <p>In this talk I will
         <generator-bit id="talkCat">Image Text</generator-bit>, </p>
     <p>    based on an idea I had when I was
@@ -40,7 +44,9 @@
 
 
     <button id="refresh-button">New Talk</button>
-{% include footer.html %}
+    {% include footer.html %}
     </div>
-  </body>
+    </div>
+    </div>
+</body>
 </html>
