@@ -6,7 +6,10 @@
     <link rel="stylesheet" href="/assets/css/mathsjam.css">
     <script src="assets/js/mathsjamscript.js"></script>
   </head>
+  {% include head.html %}
   <body>
+    <div class="col-lg-8 mx-auto p-3 py-md-5">
+      {% include header.html %}
     {{ content }}
     <p>In this talk I will
         <generator-bit id="talkCat">Image Text</generator-bit>, </p>
@@ -37,6 +40,7 @@
 
 
     <button id="refresh-button">New Talk</button>
-    
-</body>
+{% include footer.html %}
+    </div>
+  </body>
 </html>
