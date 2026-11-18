@@ -1,6 +1,5 @@
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
 }
 
 .image-container {
@@ -18,4 +17,5 @@ button {
 generator-bit {
   font-family: Arial, monospace;
   color: #0074d9;
+  text-align: center;
 }
